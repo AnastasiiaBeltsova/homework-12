@@ -35,19 +35,7 @@
     background-color: red;
     opacity: 0;
     color: #fff;
-    /* animation: fadeInFromNone 0.5s ease-out; */
 }
-/* @keyframes fadeInFromNone {
-    from {
-        opacity: 0;
-        display: block;
-    }
-
-    to {
-        display: block;
-        opacity: 1;
-    }
-} */
 
 .slider li.active {
     opacity: 1;
